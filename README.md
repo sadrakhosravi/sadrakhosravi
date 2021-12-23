@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sadra Khosravi</h1>
-<h3 align="center">A passionate Full Stack Developer & UI/UX enthusiast.</h3>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sadra Khosravi</h1>
+<h3 align="left">A Passionate Full Stack Developer & UI/UX Enthusiast.</h3>
+<p>I’m a full-stack developer specializing in designing, architecting, and building data driven applications and digital experiences for the web and desktop computers. Currently, I am focused on building a high-precision and performant medical software.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrakhosravi&label=Profile%20views&color=0e75b6&style=flat" alt="sadrakhosravi" /> </p>
+- 👨‍💻 All of my projects are available at <a href="https://sadrakhosravi.com" target="blank">sadrakhosravi.com</a>
 
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📝 I regularly write articles on [#](#)
+- 📝 I regularly write articles on <a href="https://sadrakhosravi.com/blog" target="blank">sadrakhosravi.com/blog</a>
 
 - 📫 How to reach me **sadrakh@outlook.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences <a href="https://sadrakhosravi.com#experience" target="blank">Click here</a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrakhosravi&label=Profile%20views&color=0e75b6&style=flat" alt="sadrakhosravi" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="#" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
-<a href="https://dribbble.com/sadrakh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sadrakh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sadrakh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadrakh/" height="30" width="40" /></a>
+<a href="https://dribbble.com/sadrakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/sadrakh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
